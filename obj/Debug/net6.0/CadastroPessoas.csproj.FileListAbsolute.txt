@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\bin\Debug\net6.0\CadastroPessoas.exe
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\bin\Debug\net6.0\CadastroPessoas.deps.json
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\bin\Debug\net6.0\CadastroPessoas.runtimeconfig.json
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\bin\Debug\net6.0\CadastroPessoas.dll
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\bin\Debug\net6.0\CadastroPessoas.pdb
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.AssemblyInfo.cs
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.dll
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\obj\Debug\net6.0\refint\CadastroPessoas.dll
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.pdb
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\obj\Debug\net6.0\CadastroPessoas.genruntimeconfig.cache
+C:\Users\thiag\Desktop\DevApps\CSharp\CadastroPessoas\obj\Debug\net6.0\ref\CadastroPessoas.dll
